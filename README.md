@@ -27,4 +27,4 @@ Example:
 
 ```python fantfarm_v8.py -v --verbose-importance 3 --delay .001 --seed GJHasoij2f2JYA --year 50```
 
-Example Output (v5): see latest fantfarm_SEED_#year_summary.txt
+Example Output (v5): ```see latest fantfarm_SEED_#year_summary.txt```
