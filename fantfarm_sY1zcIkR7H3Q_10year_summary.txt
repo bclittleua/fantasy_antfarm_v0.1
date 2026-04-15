@@ -1,0 +1,134 @@
+========================================================================
+WORLD SUMMARY
+========================================================================
+Seed: sY1zcIkR7H3Q
+Ticks simulated: 10800
+Realtime duration: 42.52 seconds (0.71 minutes)
+Current date: Year 11, Spring, Dawnsreach 1, Morning
+Living population: 0 / 502
+Living monsters: 171 / 218
+Active parties: 0
+
+Most celebrated hero:
+  Kara Wythe — Chaotic Neutral, Fighter, rep=101, dragon kills=0, horror kills=0, region=Greenrun
+  Birth: Yearsend 17
+  Death: Year 1, Summer, Highsun 12, Night — monster attack by Stone Giant
+  Deeds: claiming 20 kills
+
+Most feared villain:
+  Talia Voss, Boss of Wolfheath — Chaotic Evil, Fighter, rep=230, kills=20, oppressed regions=134, region=Ironwatch
+  Birth: Bloomtide 25
+  Death: Year 1, Summer, Highsun 13, Midday — monster attack by Stone Giant
+  Deeds: oppressing 134 regions
+
+The Chronicle of Kara Wythe, Goldreach, and Lord of Darkness
+  Goldreach emerged as the strongest region, carrying order 100 under the broadest surviving favor of Lord of Darkness.
+  Kara Wythe earned renown through 20 victories in Greenrun.
+  Talia Voss, Boss of Wolfheath oppressed 134 regions and left 20 bodies in their wake.
+  The continent ends the year divided, its fate unresolved and its borders morally uncertain.
+
+Population by role:
+  Commoner     0 / 407
+  Fighter      0 /  56
+  Wizard       0 /   9
+  Warden       0 /  28
+
+Immortal influence:
+  Lord of Darkness living=  0 souls=172 influence= 344 share= 34.3%
+  Lord of Light    living=  0 souls=159 influence= 318 share= 31.7%
+  God of Chance    living=  0 souls=171 influence= 342 share= 34.1%
+
+Regional state:
+  Deeppass       Forest     danger=2 control=-100 order= 54 lean=Evil      ruler=None
+  Goldreach      Plains     danger=2 control=-100 order=100 lean=Evil      ruler=None
+  Greenrun       Highlands  danger=3 control=-100 order= 54 lean=Evil      ruler=None
+  Oakheath       Forest     danger=3 control=-100 order= 54 lean=Evil      ruler=None
+  Mistvale       Plains     danger=2 control=-100 order=100 lean=Evil      ruler=None
+  Ironmere       Highlands  danger=1 control=-100 order= 54 lean=Evil      ruler=None
+  Wolfheath      Forest     danger=3 control=-100 order= 54 lean=Evil      ruler=None
+  Ironfield      Plains     danger=5 control=-100 order=100 lean=Evil      ruler=None
+  Wolfcrest      Highlands  danger=3 control=-100 order= 54 lean=Evil      ruler=None
+  Greenreach     Forest     danger=2 control=-100 order= 54 lean=Evil      ruler=None
+  Ironwatch      Plains     danger=5 control=-100 order=100 lean=Evil      ruler=None
+  Ashwatch       Highlands  danger=3 control=-100 order= 54 lean=Evil      ruler=None
+
+Monsters still abroad:
+  Goblin         125 / 168
+  Giant           39 /  43
+  Dragon           3 /   3
+  Ancient Horror   4 /   4
+
+Notable events:
+  [Year 10, Spring, Bloomtide 11, Morning] Bloomtide closes in Spring: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Spring, Bloomtide 21, Morning] Bloomtide closes in Spring: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Suncrest 1, Morning] Suncrest closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Suncrest 1, Morning] Summer ends with the continent's average order at 70.0.
+  [Year 10, Summer, Suncrest 11, Morning] Suncrest closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Suncrest 21, Morning] Suncrest closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Goldfire 1, Morning] Goldfire closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Goldfire 1, Morning] Summer ends with the continent's average order at 70.0.
+  [Year 10, Summer, Goldfire 11, Morning] Goldfire closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Goldfire 21, Morning] Goldfire closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Highsun 1, Morning] Highsun closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Highsun 1, Morning] Summer ends with the continent's average order at 70.0.
+  [Year 10, Summer, Highsun 11, Morning] Highsun closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Summer, Highsun 21, Morning] Highsun closes in Summer: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Harvestwane 1, Morning] Harvestwane closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Harvestwane 1, Morning] Autumn ends with the continent's average order at 70.0.
+  [Year 10, Autumn, Harvestwane 11, Morning] Harvestwane closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Harvestwane 21, Morning] Harvestwane closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Emberfall 1, Morning] Emberfall closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Emberfall 1, Morning] Autumn ends with the continent's average order at 70.0.
+  [Year 10, Autumn, Emberfall 11, Morning] Emberfall closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Emberfall 21, Morning] Emberfall closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Duskmarch 1, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Duskmarch 1, Morning] Autumn ends with the continent's average order at 70.0.
+  [Year 10, Autumn, Duskmarch 11, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Autumn, Duskmarch 21, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Frostturn 1, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Frostturn 1, Morning] Winter ends with the continent's average order at 70.0.
+  [Year 10, Winter, Frostturn 11, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Frostturn 21, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Deepcold 1, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Deepcold 1, Morning] Winter ends with the continent's average order at 69.3.
+  [Year 10, Winter, Deepcold 11, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Deepcold 21, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Yearsend 1, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Yearsend 1, Morning] Winter ends with the continent's average order at 69.3.
+  [Year 10, Winter, Yearsend 11, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 10, Winter, Yearsend 21, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 11, Spring, Dawnsreach 1, Morning] Dawnsreach closes in Spring: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 11, Spring, Dawnsreach 1, Morning] Spring ends with the continent's average order at 69.3.
+
+World condition:
+  Good-leaning regions: 0
+  Evil-leaning regions: 12
+  Contested regions: 0
+  Average order: 69.3
+  Assessment: The continent is fully lost to darkness. Little hope remains.
+
+Top adventurers, living and dead:
+  Talia Voss, Boss of Wolfheath Fighter   Chaotic Evil     Lord of Darkness rep=230 kills=20 mkills=14 dragons= 0 horrors= 0 luck=11 birth=Bloomtide 25    status=dead   region=Ironwatch
+    Death: Year 1, Summer, Highsun 13, Midday — monster attack by Stone Giant
+  Vera Flint                   Warden    Chaotic Evil     Lord of Darkness rep=133 kills=17 mkills=12 dragons= 0 horrors= 0 luck=10 birth=Yearsend 2      status=dead   region=Greenreach
+    Death: Year 1, Spring, Rainmoot 19, Night — monster attack by Many-Eyed Tide
+  Kara Pike, Boss of Wolfheath Fighter   Chaotic Evil     Lord of Darkness rep=131 kills=17 mkills=12 dragons= 0 horrors= 0 luck= 9 birth=Harvestwane 14  status=dead   region=Greenrun
+    Death: Year 1, Spring, Rainmoot 14, Morning — monster attack by Sleeper Below
+  Kara Wythe                   Fighter   Chaotic Neutral  God of Chance    rep=101 kills=20 mkills=14 dragons= 0 horrors= 0 luck=13 birth=Yearsend 17     status=dead   region=Greenrun
+    Death: Year 1, Summer, Highsun 12, Night — monster attack by Stone Giant
+  Bram Torr                    Warden    True Neutral     God of Chance    rep= 99 kills=20 mkills=13 dragons= 0 horrors= 0 luck=15 birth=Emberfall 19    status=dead   region=Greenrun
+    Death: Year 1, Summer, Suncrest 18, Night — monster attack by Sleeper Below
+  Rook Stone                   Fighter   Neutral Evil     Lord of Darkness rep= 99 kills=14 mkills=12 dragons= 0 horrors= 0 luck=11 birth=Rainmoot 29     status=dead   region=Greenreach
+    Death: Year 1, Spring, Dawnsreach 20, Midday — monster attack by Many-Eyed Tide
+  Fenn Grove                   Fighter   Neutral Evil     God of Chance    rep= 76 kills=14 mkills= 1 dragons= 0 horrors= 0 luck=15 birth=Harvestwane 10  status=dead   region=Greenrun
+    Death: Year 1, Spring, Rainmoot 8, Morning — monster attack by Sleeper Below
+  Alden Kestrel                Wizard    Neutral Evil     Lord of Darkness rep= 70 kills=14 mkills= 1 dragons= 0 horrors= 0 luck=10 birth=Suncrest 30     status=dead   region=Greenrun
+    Death: Year 1, Spring, Rainmoot 5, Night — monster attack by Sleeper Below
+  Sera Thorne                  Fighter   Lawful Evil      Lord of Darkness rep= 55 kills=14 mkills= 1 dragons= 0 horrors= 0 luck=10 birth=Highsun 14      status=dead   region=Greenrun
+    Death: Year 1, Spring, Dawnsreach 19, Night — monster attack by Sleeper Below
+  Sel Farrow                   Fighter   Lawful Evil      Lord of Light    rep= 55 kills= 9 mkills= 1 dragons= 0 horrors= 0 luck=11 birth=Harvestwane 7   status=dead   region=Greenrun
+    Death: Year 1, Spring, Rainmoot 2, Night — monster attack by Sleeper Below
+  Edda Dale                    Fighter   Lawful Evil      Lord of Darkness rep= 49 kills=13 mkills= 1 dragons= 0 horrors= 0 luck=13 birth=Highsun 2       status=dead   region=Greenrun
+    Death: Year 1, Spring, Dawnsreach 14, Morning — monster attack by Sleeper Below
+  Mira Reed                    Warden    True Neutral     God of Chance    rep= 45 kills=14 mkills= 1 dragons= 0 horrors= 0 luck=10 birth=Goldfire 28     status=dead   region=Greenrun
+    Death: Year 1, Spring, Rainmoot 13, Night — monster attack by Sleeper Below
