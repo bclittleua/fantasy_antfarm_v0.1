@@ -85,3 +85,6 @@ class Actor:
     death_cause: Optional[str] = None
     death_killer_id: Optional[int] = None
 ```
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65d82d67-d7e2-4f1d-aa35-7dfc4007ece8" />
