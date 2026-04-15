@@ -12,7 +12,7 @@ Usage:
  
 - run in command prompt or powershell: ```python fantfarm_v8.py```
 
-- Optional flags:
+Optional flags:
 - -v                   verbose mode, displays events by tick in terminal
 - --verbose-importance 1-3, 3 = most. Filters verbose mode events by level of importance. Default =1.
 - --seed               specify alphanumeric seed. simulation should always produce same results based on seed, duration may produce varying results.
