@@ -1,0 +1,143 @@
+========================================================================
+WORLD SUMMARY
+========================================================================
+Seed: ZVSdPiQYVhqW
+Ticks simulated: 1080
+Realtime duration: 31.29 seconds (0.52 minutes)
+Current date: Year 2, Spring, Dawnsreach 1, Morning
+Living population: 47 / 1009
+Living monsters: 0 / 70
+Active parties: 11
+
+Most celebrated hero:
+  Brina Hart — True Neutral, Fighter, rep=103, dragon kills=1, horror kills=1, region=Misthollow
+  Birth: Deepcold 16
+  Death: Still living
+  Deeds: slaying 1 dragon; destroying 1 ancient horror
+
+Most feared villain:
+  Edda Harrow — Neutral Evil, Wizard, rep=218, kills=21, oppressed regions=119, region=Misthollow
+  Birth: Dawnsreach 26
+  Death: Still living
+  Deeds: slaying 1 dragon; destroying 1 ancient horror; oppressing 119 regions
+
+The Chronicle of Brina Hart, Stonecrest, and God of Chance
+  Stonecrest emerged as the strongest region, carrying order 55 under the broadest surviving favor of God of Chance.
+  Brina Hart slew 1 dragon and destroyed 1 ancient horror in Misthollow.
+  Edda Harrow oppressed 119 regions, left 21 bodies in their wake, slew 1 dragon, and destroyed 1 ancient horror.
+  The continent ends the year under a darker sky, with fear spreading more quickly than harvest.
+
+Population by role:
+  Commoner     0 / 818
+  Fighter     33 / 120
+  Wizard       4 /  23
+  Warden      10 /  45
+
+Immortal influence:
+  Lord of Darkness living= 19 souls=316 influence= 651 share= 33.0%
+  Lord of Light    living=  8 souls=307 influence= 622 share= 31.6%
+  God of Chance    living= 20 souls=339 influence= 698 share= 35.4%
+
+Regional state:
+  Mistpass       Forest     danger=5 control=-100 order=  0 lean=Evil      ruler=None
+  Oakcrest       Plains     danger=5 control=-100 order= 55 lean=Evil      ruler=None
+  Frosthollow    Highlands  danger=3 control=-100 order=  0 lean=Evil      ruler=None
+  Misthollow     Forest     danger=5 control=-100 order=  0 lean=Evil      ruler=None
+  Greenford      Plains     danger=1 control=-100 order= 18 lean=Evil      ruler=None
+  Greenpass      Highlands  danger=3 control=-100 order=  0 lean=Evil      ruler=None
+  Oakford        Forest     danger=1 control=-100 order=  0 lean=Evil      ruler=None
+  Highpass       Plains     danger=4 control=-100 order= 54 lean=Evil      ruler=Fenn Vale
+  Greencrest     Highlands  danger=1 control=-100 order=  0 lean=Evil      ruler=None
+  Goldreach      Forest     danger=4 control=-100 order=  0 lean=Evil      ruler=None
+  Stonecrest     Plains     danger=4 control=-100 order= 55 lean=Evil      ruler=None
+  Redvale        Highlands  danger=1 control=-100 order=  6 lean=Evil      ruler=None
+
+Monsters still abroad:
+  Goblin           0 /  56
+  Giant            0 /   8
+  Dragon           0 /   3
+  Ancient Horror   0 /   3
+
+Legendary events:
+  [Year 1, Spring, Dawnsreach 4, Night] Thora Hollow slays Black Dragon in Stonecrest.
+  [Year 1, Spring, Rainmoot 13, Midday] Orin Kestrel destroys the Sleeper Below in Stonecrest.
+  [Year 1, Spring, Bloomtide 23, Night] Sera Rook destroys the Whispering Maw in Greencrest.
+  [Year 1, Autumn, Harvestwane 1, Midday] Ember Morrow destroys the Many-Eyed Tide in Greenford.
+  [Year 1, Winter, Deepcold 15, Midday] Lysa Pike slays Blue Dragon in Greenford.
+  [Year 1, Winter, Deepcold 16, Midday] Kara Wythe slays Green Dragon in Highpass.
+
+Notable events:
+  [Year 1, Autumn, Duskmarch 1, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Autumn, Duskmarch 1, Morning] Autumn ends with the continent's average order at 18.9.
+  [Year 1, Autumn, Duskmarch 1, Midday] Alden Morrow terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 1, Night] Galen Mills terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 1, Night] Thora Torr terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 3, Morning] Sera Rook terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 3, Morning] Sel Black terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 3, Morning] Vale Stone terrorizes commoners in Stonecrest, leaving 0 dead.
+  [Year 1, Autumn, Duskmarch 4, Morning] Sera Hart terrorizes commoners in Redvale, leaving 1 dead.
+  [Year 1, Autumn, Duskmarch 6, Night] Sera Rook defeats Goblin rabble 66 in Mistpass.
+  [Year 1, Autumn, Duskmarch 11, Morning] Rumors spread of a Hill Giant appearing near Stonecrest.
+  [Year 1, Autumn, Duskmarch 11, Morning] Iris Briar fells Hill Giant in Stonecrest.
+  [Year 1, Autumn, Duskmarch 11, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Autumn, Duskmarch 16, Midday] Hale Voss defeats Goblin rabble 68 in Goldreach.
+  [Year 1, Autumn, Duskmarch 21, Morning] Duskmarch closes in Autumn: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Autumn, Duskmarch 21, Night] Kara Hart and Alden Morrow bind their fates in Oakford.
+  [Year 1, Autumn, Duskmarch 25, Night] Iris Briar and Galen Ash bind their fates in Greencrest.
+  [Year 1, Winter, Frostturn 1, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Frostturn 1, Morning] Winter ends with the continent's average order at 23.2.
+  [Year 1, Winter, Frostturn 11, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Frostturn 21, Morning] Frostturn closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Deepcold 1, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Deepcold 1, Morning] Winter ends with the continent's average order at 17.0.
+  [Year 1, Winter, Deepcold 11, Morning] Rumors spread of a Green Dragon appearing near Greencrest.
+  [Year 1, Winter, Deepcold 11, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Deepcold 12, Night] Niall Ward, Giantbreaker dies in Greencrest. Cause: monster attack by Green Dragon.
+  [Year 1, Winter, Deepcold 12, Night] Green Dragon brings ruin to Greencrest, leaving 1 dead.
+  [Year 1, Winter, Deepcold 15, Midday] Lysa Pike slays Blue Dragon in Greenford.
+  [Year 1, Winter, Deepcold 16, Midday] The people of Stonecrest proclaim Brina's Day in honor of Brina Hart.
+  [Year 1, Winter, Deepcold 16, Midday] Stonecrest observes Brina's Day. Observed in honor of Brina Hart.
+  [Year 1, Winter, Deepcold 16, Midday] Kara Wythe slays Green Dragon in Highpass.
+  [Year 1, Winter, Deepcold 16, Midday] A party forms in Misthollow: Fenn Rowan, Rhea Mercer.
+  [Year 1, Winter, Deepcold 21, Morning] Deepcold closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Yearsend 1, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Yearsend 1, Morning] Winter ends with the continent's average order at 16.2.
+  [Year 1, Winter, Yearsend 11, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Yearsend 21, Morning] Yearsend closes in Winter: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 1, Winter, Yearsend 28, Night] A child is born to Galen Ash and Iris Briar in Mistpass.
+  [Year 2, Spring, Dawnsreach 1, Morning] Dawnsreach closes in Spring: 0 regions lean toward order, 12 toward oppression, 0 remain contested.
+  [Year 2, Spring, Dawnsreach 1, Morning] Spring ends with the continent's average order at 15.7.
+
+Commemorations:
+  Rainmoot 23: Orin's Day in Mistpass — Observed in honor of Orin Kestrel.
+    For slaying 1 dragon; destroying 1 ancient horror.
+  Suncrest 24: Alden's Day in Greenford — Observed in honor of Alden Morrow.
+    For slaying 1 dragon; destroying 2 ancient horrors; oppressing 97 regions.
+  Highsun 28: Iris's Day in Mistpass — Observed in honor of Iris Briar.
+    For felling 2 giants; oppressing 112 regions.
+  Deepcold 16: Brina's Day in Stonecrest — Observed in honor of Brina Hart.
+    For slaying 1 dragon; destroying 1 ancient horror.
+
+World condition:
+  Good-leaning regions: 0
+  Evil-leaning regions: 12
+  Contested regions: 0
+  Average order: 15.7
+  Assessment: The continent is fully lost to darkness. Little hope remains.
+
+Most influential party:
+  Band of Mistpass — leader=Brina Hart, size=13, large_group=True
+
+Top adventurers, living and dead:
+  Rook Mills                   Fighter   Neutral Evil     Lord of Darkness rep=218 kills=21 mkills=11 dragons= 1 horrors= 1 luck=11 birth=Rainmoot 13     status=living region=Misthollow
+  Edda Harrow                  Wizard    Neutral Evil     Lord of Darkness rep=218 kills=21 mkills=11 dragons= 1 horrors= 1 luck=12 birth=Dawnsreach 26   status=living region=Misthollow
+  Sera Rook, Bane of the Deep  Fighter   Lawful Evil      Lord of Darkness rep=216 kills=23 mkills=11 dragons= 1 horrors= 2 luck= 7 birth=Frostturn 7     status=living region=Oakford
+  Hale Kestrel                 Fighter   Neutral Evil     Lord of Darkness rep=216 kills=21 mkills=11 dragons= 1 horrors= 1 luck=11 birth=Deepcold 18     status=living region=Misthollow
+  Sel Cross                    Wizard    Neutral Evil     Lord of Darkness rep=212 kills=21 mkills=11 dragons= 1 horrors= 1 luck=11 birth=Duskmarch 2     status=living region=Misthollow
+  Galen Mills                  Fighter   Lawful Evil      Lord of Darkness rep=211 kills=23 mkills=11 dragons= 1 horrors= 2 luck=10 birth=Frostturn 26    status=living region=Oakford
+  Marek Vale                   Warden    Lawful Evil      Lord of Darkness rep=208 kills=23 mkills=11 dragons= 1 horrors= 2 luck= 7 birth=Bloomtide 10    status=living region=Oakford
+  Sera Hart                    Fighter   Lawful Evil      Lord of Darkness rep=206 kills=23 mkills=11 dragons= 1 horrors= 2 luck= 6 birth=Dawnsreach 3    status=living region=Oakford
+  Iris Dunn                    Fighter   Lawful Evil      Lord of Darkness rep=206 kills=21 mkills=11 dragons= 1 horrors= 1 luck=13 birth=Goldfire 17     status=living region=Misthollow
+  Brina Mills                  Warden    Neutral Evil     Lord of Darkness rep=206 kills=21 mkills=11 dragons= 1 horrors= 1 luck= 9 birth=Deepcold 15     status=living region=Misthollow
+  Thora Torr                   Warden    Neutral Evil     Lord of Darkness rep=201 kills=23 mkills=11 dragons= 1 horrors= 2 luck=14 birth=Dawnsreach 27   status=living region=Oakford
+  Sel Black                    Wizard    Lawful Evil      Lord of Light    rep=200 kills=23 mkills=11 dragons= 1 horrors= 2 luck=14 birth=Harvestwane 9   status=living region=Oakford
