@@ -1,7 +1,16 @@
 About:
 
-Fantasy Antfarm is a fantasy world simulator, complete with diverse regions, adventurers, monsters, and immortal gods. Worlds are generated from an alphnumeric seed and populated with commoners, fighters, wardens (a ranger/rogue hybrid class) and, very rarely, wizards. Every person/npc generated has a host of personal stats and preferences and will seek to align with like-minded adventurers. Adventurers can be good protectors or align themselves with evil monsters. Commoners will attempt to simply survive and procreate, praying to their god of choice.
-
+Fantasy Antfarm is a fantasy world simulator, complete with diverse regions, adventurers, monsters, and immortal gods. Worlds are generated from an alphnumeric seed and populated with commoners, fighters, wardens (a ranger/rogue hybrid class) and, very rarely, wizards. 
+- Every person/npc generated has a host of personal stats and preferences and will seek to align with like-minded adventurers.
+- Adventurers can be good protectors or align themselves with evil monsters.
+- Commoners will attempt to simply survive and procreate, praying to their god of choice.
+- All actors (except ancient horrors and dragons) have a natural lifespan and can die of old age if they manage to survive a life of violence.
+- If a human meets somone enough like themselves, they will marry and procreate at age 18.
+- All newborns are commoners, but have a low chance to become an adventurer at age 16, with a higher chance if one or both parents were adventurers.
+- Average lifespan is around 65 years, but with luck and health even commoners can live much longer.
+- Wizards can live to very old ages with the use of their magic, but none can achieve immortality.
+- Dragons can reproduce, but only rarely.
+- Ancient Horrors spawn only once and are VERY difficult to kill.
 
 ```
 Usage:
