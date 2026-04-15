@@ -4,7 +4,13 @@ Fantasy Antfarm is a fantasy world simulator, complete with diverse regions, adv
 Usage:
 Requires Python v3.5+
 Be sure all files are in same folder.
-run in command prompt or powershell: python fantfarm_v8.py
+- fantfarm_v8.py
+- population_v4.py
+- summary_v6.py
+- class_v1.py
+- legacy_v1.py
+- 
+run in command prompt or powershell: ```python fantfarm_v8.py```
 
 Optional flags:
 -v                   verbose mode, displays events by tick in terminal
