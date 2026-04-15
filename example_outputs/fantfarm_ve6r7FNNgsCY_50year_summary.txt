@@ -1,0 +1,188 @@
+========================================================================
+WORLD SUMMARY
+========================================================================
+Seed: ve6r7FNNgsCY
+Ticks simulated: 54000
+Realtime duration: 5142.66 seconds (85.71 minutes)
+Current date: Year 51, Spring, Dawnsreach 1, Morning
+Living population: 0 / 4137
+Living monsters: 300 / 1009
+Active parties: 0
+
+Most celebrated hero:
+  Nora Wythe, Defender of Wolfmoor — Neutral Good, Fighter, rep=441, dragon kills=11, horror kills=0, region=Redmoor
+  Birth: Yearsend 18
+  Death: Year 34, Autumn, Duskmarch 18, Morning — monster attack by Stone Giant
+  Deeds: slaying 11 dragons; felling 32 giants; defending 5 regions
+
+Most feared villain:
+  Mira Harrow, Boss of Greenrun — Neutral Evil, Fighter, rep=49, kills=15, oppressed regions=6, region=Greenrun
+  Birth: Goldfire 12
+  Death: Year 1, Spring, Dawnsreach 14, Morning — battle wounds
+  Deeds: felling 1 giant; oppressing 6 regions
+
+The Chronicle of Nora Wythe, Oakfield, and God of Chance
+  Oakfield emerged as the strongest region, carrying order 100 under the broadest surviving favor of God of Chance.
+  Nora Wythe, Defender of Wolfmoor slew 11 dragons, felled 32 giants, and defended 5 regions in Redmoor.
+  Mira Harrow, Boss of Greenrun oppressed 6 regions, left 15 bodies in their wake, and felled 1 giant.
+  The continent ends the year divided, its fate unresolved and its borders morally uncertain.
+
+Population by role:
+  Commoner     0 / 887
+  Fighter      0 / 134
+  Wizard       0 /  20
+  Warden       0 /  66
+
+Immortal influence:
+  Lord of Darkness living=  0 souls=1343 influence=2686 share= 32.5%
+  Lord of Light    living=  0 souls=1341 influence=2682 share= 32.4%
+  God of Chance    living=  0 souls=1453 influence=2906 share= 35.1%
+
+Regional state:
+  Frostford      Forest     danger=1 control= -46 order= 54 lean=Evil      ruler=None
+  Ashwood        Plains     danger=2 control= -60 order=100 lean=Evil      ruler=None
+  Redmoor        Highlands  danger=2 control= -69 order= 54 lean=Evil      ruler=None
+  Rivervale      Forest     danger=4 control= -59 order= 54 lean=Evil      ruler=None
+  Wolfmoor       Plains     danger=2 control= -58 order=100 lean=Evil      ruler=None
+  Highfield      Highlands  danger=5 control= -53 order= 54 lean=Evil      ruler=None
+  Highheath      Forest     danger=2 control= -54 order= 54 lean=Evil      ruler=None
+  Oakwatch       Plains     danger=2 control= -34 order=100 lean=Evil      ruler=None
+  Ironvale       Highlands  danger=2 control= -27 order= 54 lean=Evil      ruler=None
+  Goldheath      Forest     danger=5 control=  -2 order= 54 lean=Contested ruler=None
+  Oakfield       Plains     danger=4 control=  98 order=100 lean=Good      ruler=None
+  Greenrun       Highlands  danger=3 control= -46 order= 54 lean=Evil      ruler=None
+
+Monsters still abroad:
+  Goblin         227 / 769
+  Giant           70 / 208
+  Dragon           3 /  28
+  Ancient Horror   0 /   4
+
+Legendary events:
+  [Year 19, Autumn, Emberfall 7, Midday] Galen Dale slays Black Dragon in Goldheath.
+  [Year 24, Spring, Rainmoot 21, Morning] Dain Rook slays White Dragon in Highheath.
+  [Year 28, Autumn, Emberfall 2, Midday] Bram Voss slays White Dragon in Oakfield.
+  [Year 30, Summer, Suncrest 8, Midday] Bram Voss slays Red Dragon in Oakfield.
+  [Year 30, Summer, Suncrest 30, Night] Kara Hale slays Black Dragon in Oakfield.
+  [Year 30, Summer, Goldfire 2, Midday] Bram Voss slays Green Dragon in Oakfield.
+  [Year 31, Autumn, Harvestwane 15, Morning] Kara Hale slays White Dragon in Oakfield.
+  [Year 31, Autumn, Harvestwane 15, Midday] Pella Stone slays Red Dragon in Oakfield.
+  [Year 31, Autumn, Harvestwane 25, Night] Alden Hart slays Black Dragon in Oakfield.
+  [Year 33, Summer, Suncrest 6, Morning] Brina Harrow slays Red Dragon in Oakfield.
+
+Notable events:
+  [Year 50, Autumn, Emberfall 1, Morning] Autumn ends with the continent's average order at 70.0.
+  [Year 50, Autumn, Emberfall 11, Morning] Emberfall closes in Autumn: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Autumn, Emberfall 16, Morning] Rumors spread of a Hill Giant appearing near Highheath.
+  [Year 50, Autumn, Emberfall 21, Morning] Emberfall closes in Autumn: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Autumn, Duskmarch 1, Morning] Duskmarch closes in Autumn: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Autumn, Duskmarch 1, Morning] Autumn ends with the continent's average order at 70.0.
+  [Year 50, Autumn, Duskmarch 11, Morning] Duskmarch closes in Autumn: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Autumn, Duskmarch 14, Midday] Greenrun observes Brina's Day. Observed in honor of Brina Harrow.
+  [Year 50, Autumn, Duskmarch 14, Midday] Oakfield observes Brina's Day. Observed in honor of Brina Harrow.
+  [Year 50, Autumn, Duskmarch 21, Morning] Duskmarch closes in Autumn: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Frostturn 1, Morning] Frostturn closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Frostturn 1, Morning] Winter ends with the continent's average order at 70.0.
+  [Year 50, Winter, Frostturn 1, Midday] Rivervale observes Pella's Day. Observed in honor of Pella Harrow.
+  [Year 50, Winter, Frostturn 1, Midday] Frostford observes Pella's Day. Observed in honor of Pella Harrow.
+  [Year 50, Winter, Frostturn 11, Morning] Frostturn closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Frostturn 17, Midday] Highfield observes Bram's Day. Observed in honor of Bram Tanner.
+  [Year 50, Winter, Frostturn 21, Morning] Frostturn closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Frostturn 21, Midday] Ashwood observes Rhea's Day. Observed in honor of Rhea Ash.
+  [Year 50, Winter, Frostturn 21, Midday] Oakfield observes Rhea's Day. Observed in honor of Rhea Ash.
+  [Year 50, Winter, Frostturn 27, Midday] Rivervale observes Sera's Day. Observed in honor of Sera Briar.
+  [Year 50, Winter, Frostturn 28, Midday] Goldheath observes Soren's Day. Observed in honor of Soren Grove.
+  [Year 50, Winter, Deepcold 1, Morning] Deepcold closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Deepcold 1, Morning] Winter ends with the continent's average order at 69.3.
+  [Year 50, Winter, Deepcold 11, Morning] Deepcold closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Deepcold 16, Midday] Frostford observes Galen's Day. Observed in honor of Galen Dusk.
+  [Year 50, Winter, Deepcold 21, Morning] Deepcold closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Deepcold 25, Midday] Goldheath observes Ysra's Day. Observed in honor of Ysra Ward.
+  [Year 50, Winter, Yearsend 1, Morning] Yearsend closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Yearsend 1, Morning] Winter ends with the continent's average order at 69.3.
+  [Year 50, Winter, Yearsend 6, Morning] Rumors spread of a Hill Giant appearing near Rivervale.
+  [Year 50, Winter, Yearsend 11, Morning] Yearsend closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Yearsend 18, Midday] Oakwatch observes Nora's Day. Observed in honor of Nora Wythe.
+  [Year 50, Winter, Yearsend 18, Midday] Oakfield observes Nora's Day. Observed in honor of Nora Wythe.
+  [Year 50, Winter, Yearsend 18, Midday] Greenrun observes Nora's Day. Observed in honor of Nora Wythe.
+  [Year 50, Winter, Yearsend 18, Midday] Wolfmoor observes Nora's Day. Observed in honor of Nora Wythe.
+  [Year 50, Winter, Yearsend 21, Morning] Yearsend closes in Winter: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 50, Winter, Yearsend 23, Midday] Redmoor observes Alden's Day. Observed in honor of Alden Hart.
+  [Year 50, Winter, Yearsend 23, Midday] Rivervale observes Alden's Day. Observed in honor of Alden Hart.
+  [Year 51, Spring, Dawnsreach 1, Morning] Dawnsreach closes in Spring: 1 regions lean toward order, 10 toward oppression, 1 remain contested.
+  [Year 51, Spring, Dawnsreach 1, Morning] Spring ends with the continent's average order at 69.3.
+
+Commemorations:
+  Dawnsreach 3: Mira's Day in Highheath — Observed in honor of Mira Briar.
+    For felling 5 giants.
+  Dawnsreach 6: Alden's Day in Oakwatch — Observed in honor of Alden Hale.
+    For oppressing 5 regions.
+  Dawnsreach 17: Kara's Day in Ashwood — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 17: Kara's Day in Goldheath — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 17: Kara's Day in Rivervale — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 17: Kara's Day in Highfield — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 17: Kara's Day in Redmoor — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 17: Kara's Day in Oakfield — Observed in honor of Kara Mills.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Dawnsreach 18: Ulric's Day in Ashwood — Observed in honor of Ulric Marsh.
+    For felling 10 giants.
+  Dawnsreach 18: Ulric's Day in Redmoor — Observed in honor of Ulric Marsh.
+    For felling 10 giants.
+  Dawnsreach 29: Wren's Day in Rivervale — Observed in honor of Wren Ward.
+    For slaying 1 dragon; destroying 3 ancient horrors; felling 3 giants; defending 6 regions.
+  Dawnsreach 29: Wren's Day in Ironvale — Observed in honor of Wren Ward.
+    For slaying 1 dragon; destroying 3 ancient horrors; felling 3 giants; defending 6 regions.
+  Rainmoot 24: Alden's Day in Greenrun — Observed in honor of Alden Marsh.
+    For felling 20 giants.
+  Rainmoot 24: Alden's Day in Ashwood — Observed in honor of Alden Marsh.
+    For felling 20 giants.
+  Rainmoot 24: Alden's Day in Ironvale — Observed in honor of Alden Marsh.
+    For felling 20 giants.
+  Rainmoot 29: Bram's Day in Redmoor — Observed in honor of Bram Voss.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Rainmoot 29: Bram's Day in Ironvale — Observed in honor of Bram Voss.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Rainmoot 29: Bram's Day in Oakfield — Observed in honor of Bram Voss.
+    For slaying 13 dragons; destroying 3 ancient horrors; felling 31 giants.
+  Suncrest 6: Garrik's Day in Greenrun — Observed in honor of Garrik Cross.
+    For slaying 11 dragons; felling 12 giants; defending 10 regions.
+  Suncrest 6: Garrik's Day in Highfield — Observed in honor of Garrik Cross.
+    For slaying 11 dragons; felling 12 giants; defending 10 regions.
+
+World condition:
+  Good-leaning regions: 1
+  Evil-leaning regions: 10
+  Contested regions: 1
+  Average order: 69.3
+  Assessment: The continent is slipping into chaos and oppression.
+
+Top adventurers, living and dead:
+  Nora Wythe, Defender of Wolfmoor Fighter   Neutral Good     Lord of Light    rep=441 kills=65 mkills=177 dragons=11 horrors= 0 luck= 9 birth=Yearsend 18     status=dead   region=Redmoor
+    Death: Year 34, Autumn, Duskmarch 18, Morning — monster attack by Stone Giant
+  Kara Hale, Defender of Ashwood Fighter   Neutral Good     Lord of Light    rep=426 kills=74 mkills=165 dragons=13 horrors= 3 luck=14 birth=Suncrest 12     status=dead   region=Oakfield
+    Death: Year 35, Autumn, Duskmarch 16, Morning — monster attack by Red Dragon
+  Bram Voss, Dragonslayer      Warden    True Neutral     God of Chance    rep=416 kills=73 mkills=160 dragons=13 horrors= 3 luck=15 birth=Rainmoot 29     status=dead   region=Oakfield
+    Death: Year 35, Summer, Highsun 13, Midday — monster attack by Black Dragon
+  Kara Mills, Giantbreaker     Fighter   True Neutral     Lord of Darkness rep=416 kills=73 mkills=160 dragons=13 horrors= 3 luck=13 birth=Dawnsreach 17   status=dead   region=Oakfield
+    Death: Year 35, Summer, Highsun 12, Midday — monster attack by Black Dragon
+  Brina Harrow, Defender of Highfield Fighter   Neutral Good     Lord of Light    rep=416 kills=73 mkills=160 dragons=13 horrors= 3 luck= 8 birth=Duskmarch 14    status=dead   region=Oakfield
+    Death: Year 35, Summer, Highsun 13, Midday — monster attack by Black Dragon
+  Alden Hart, Defender of Goldheath Wizard    Neutral Good     Lord of Light    rep=406 kills=68 mkills=155 dragons=13 horrors= 3 luck= 9 birth=Yearsend 23     status=dead   region=Oakfield
+    Death: Year 35, Summer, Suncrest 19, Midday — monster attack by Hill Giant
+  Pella Stone, Giantbreaker    Warden    Chaotic Neutral  God of Chance    rep=388 kills=67 mkills=146 dragons=13 horrors= 3 luck=11 birth=Goldfire 11     status=dead   region=Oakfield
+    Death: Year 34, Summer, Goldfire 11, Midday — old age
+  Bram Tanner, Defender of Ironvale Fighter   Chaotic Good     Lord of Light    rep=331 kills=54 mkills=122 dragons=11 horrors= 0 luck=14 birth=Frostturn 17    status=dead   region=Ashwood
+    Death: Year 30, Summer, Suncrest 26, Morning — monster attack by Black Dragon
+  Galen Dale, Defender of Wolfmoor Warden    Chaotic Good     God of Chance    rep=331 kills=54 mkills=122 dragons=11 horrors= 0 luck=12 birth=Goldfire 28     status=dead   region=Ashwood
+    Death: Year 30, Summer, Suncrest 24, Midday — monster attack by Black Dragon
+  Dain Rook, Giantbreaker      Warden    Chaotic Neutral  God of Chance    rep=331 kills=54 mkills=122 dragons=11 horrors= 0 luck=12 birth=Suncrest 28     status=dead   region=Ashwood
+    Death: Year 30, Summer, Suncrest 28, Midday — old age
+  Sera Briar, Defender of Highheath Warden    Neutral Good     Lord of Light    rep=310 kills=54 mkills=107 dragons= 6 horrors= 3 luck=10 birth=Frostturn 27    status=dead   region=Oakfield
+    Death: Year 29, Winter, Frostturn 27, Midday — old age
+  Rhea Ash, Defender of Highheath Warden    Chaotic Good     God of Chance    rep=310 kills=54 mkills=107 dragons= 6 horrors= 3 luck= 7 birth=Frostturn 21    status=dead   region=Oakfield
+    Death: Year 28, Winter, Frostturn 21, Morning — old age
